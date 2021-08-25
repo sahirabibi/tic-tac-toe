@@ -16,7 +16,8 @@
 
     - As a player I would like the option select either an X or O so that I can decide which role I'd like play. 
     - As a player I'd like the ability to restart a game and play again so that I can play a new game.
-    - 
+
+ 
 **Silver**
     - As a player, I would like the game to keep track of my past games so that I know my high score.
 
