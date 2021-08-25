@@ -25,3 +25,8 @@
 **Gold** 
     - As a player, I'd like the option to play against the computer so that I can play by myself.
     - As a player I would like to be able to share my wins with facebook so that I can share it with my friends and family.
+
+
+## Wireframes
+
+![Tic Tac Toe Wireframe](https://user-images.githubusercontent.com/70290221/130825516-3a79ead7-ee14-412a-82c7-20651eb26c89.png)
